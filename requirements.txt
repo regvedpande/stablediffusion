@@ -1,0 +1,5 @@
+diffusers[torch]
+torch
+gradio
+pyyaml
+Pillow
